@@ -16,6 +16,12 @@
 Soil structure, water retention, physico-chemical soil properties, microbial soil activity, and phytoalexin data are publicly available at the BonaRes Repository: .. 
 Unassembled raw sequence data of 16S rRNA gene and amplicon sequencing are available in the NCBI Sequence Read Archive (SRA) under the BioProject PRJNAxxx . 
 
+## Analyses
+
+Analyses were performed in R version 4.4.0 on a RStudio Server version 2023.03.1.
+
 ## Funding
 
 The German Ministry of Education and Research (BMBF, Germany) funded this experiment in the framework of the project ORDIAmur (031B1070) as part of the BonaRes funding initiative.
+
+
