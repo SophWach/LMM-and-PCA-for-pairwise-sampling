@@ -1,8 +1,8 @@
-## GitHub repository for
+### GitHub repository for
 
 # Unravelling spatial heterogeneity of apple replant disease and associated parameters at field scale
 
-## by Anne-Sophie Wachter, Kristin Hauschild, Benye Liu, Patrick Schnoor, Elke Bloem, Andreas Wrede, Rolf Hornig, Ludger Beerhues, Steffen Schlüter, Kornelia Smalla, Traud Winkelmann and Doris Vetterlein 
+### by Anne-Sophie Wachter, Kristin Hauschild, Benye Liu, Patrick Schnoor, Elke Bloem, Andreas Wrede, Rolf Hornig, Ludger Beerhues, Steffen Schlüter, Kornelia Smalla, Traud Winkelmann and Doris Vetterlein 
 
 ## Abstract
 
